@@ -1,6 +1,6 @@
 # Autocorrect-with-NLP
 
-Objective:
+**Objective**:
 
   Autocorrect is purely based on Natural Language Processing (NLP). As the name 
 suggests that it is programmed in order to correct spellings and errors while 
@@ -14,9 +14,9 @@ Okay, If the word that you have typed is a nonexisting word in the history of
 smartphones then the autocorrect is specially programmed to find the most 
 similar words in the history of our smartphone as it suggests. 
 
-**Building an Autocorrect Feature: **
+**Building an Autocorrect Feature**:
 
-**Procedure to build an Autocorrect feature: **
+**Procedure to build an Autocorrect feature**:
 
 Step1: 
 Import the all necessary libraries like pandas , numpy  and re for data 
